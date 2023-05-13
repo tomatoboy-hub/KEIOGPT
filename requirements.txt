@@ -1,0 +1,7 @@
+openai
+chromadb
+langchain
+tiktoken
+flask
+line-bot-sdk
+PyPDF
